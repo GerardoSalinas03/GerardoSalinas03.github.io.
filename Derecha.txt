@@ -1,0 +1,2 @@
+<body bgcolor=black>
+<p  width="600" height="600" align="right"><img src="cine.jpg">
